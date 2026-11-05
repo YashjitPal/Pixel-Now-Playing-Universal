@@ -62,8 +62,19 @@ However, if you download the stock APK from APKMirror on a non-Pixel phone (Sams
 ## 📸 Screenshots (Running Live on a Non-Pixel Phone!)
 
 <div align="center">
-  <img src="assets/screenshot_history.png" alt="Pixel Now Playing Universal running on non-Pixel device" width="340" />
-  <p><i>Official 2026 Material You Expressive UI recognizing songs, fetching album cover art, and saving to History on a non-Pixel phone (Realme / ColorOS).</i></p>
+  <table>
+    <tr>
+      <td align="center"><b>🏠 2026 Expressive Home</b></td>
+      <td align="center"><b>🕒 Song History & Album Art</b></td>
+      <td align="center"><b>⚙️ Settings & Music Service</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshot_home.png" alt="Now Playing 2026 Home Screen" width="260" /></td>
+      <td><img src="assets/screenshot_history.png" alt="Now Playing Song History" width="260" /></td>
+      <td><img src="assets/screenshot_settings.png" alt="Now Playing Settings" width="260" /></td>
+    </tr>
+  </table>
+  <p><i>Official 2026 Google Pixel Material 3 Expressive UI recognizing songs, fetching album cover art, saving to History, and connecting to Apple Music / Spotify / YouTube Music on a non-Pixel phone (Realme / ColorOS).</i></p>
 </div>
 
 ---
