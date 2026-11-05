@@ -8,8 +8,8 @@
 **No Root. No Shizuku. No Android System Intelligence required. Just install 1 APK and go!**
 
 <p align="center">
-  <a href="https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/download/v1.0.0/PixelNowPlaying_Universal_Port.apk">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD_APK-v1.0_Universal-6DD58C?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
+  <a href="https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/download/v1.1.0/PixelNowPlaying_Universal_Port.apk">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD_APK-v1.1_Universal-6DD58C?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
   </a>
   <a href="https://github.com/YashjitPal/Pixel-Now-Playing-Universal/stargazers">
     <img src="https://img.shields.io/github/stars/YashjitPal/Pixel-Now-Playing-Universal?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
@@ -71,8 +71,8 @@ However, if you download the stock APK from APKMirror on a non-Pixel phone (Sams
 ## 📥 Download & Install (Takes 30 Seconds)
 
 ### **Step 1: Download the APK**
-👉 **[Click Here to Directly Download `PixelNowPlaying_Universal_Port.apk` (66 MB)](https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/download/v1.0.0/PixelNowPlaying_Universal_Port.apk)**  
-*(Or view the [Releases page](https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/tag/v1.0.0))*
+👉 **[Click Here to Directly Download `PixelNowPlaying_Universal_Port.apk` (v1.1.0 — 66 MB)](https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/download/v1.1.0/PixelNowPlaying_Universal_Port.apk)**  
+*(Or view the [Releases page](https://github.com/YashjitPal/Pixel-Now-Playing-Universal/releases/tag/v1.1.0))*
 
 ### **Step 2: Install & Grant Microphone Permission**
 1. Open the downloaded `.apk` file and install it like any normal app.
