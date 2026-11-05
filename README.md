@@ -24,9 +24,25 @@
 > ⭐ **Working on your phone? Tap the `Star` button at the top-right!**  
 > *Starring takes 1 second and helps more Android users discover this project!*
 
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><b>🏠 2026 Expressive Home</b></td>
+    <td align="center"><b>🕒 Song History & Album Art</b></td>
+    <td align="center"><b>❤️ Liked / Favourites View</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot_home.png" alt="Now Playing 2026 Home Screen" width="260" /></td>
+    <td><img src="assets/screenshot_history.png" alt="Now Playing Song History" width="260" /></td>
+    <td><img src="assets/screenshot_favorites.png" alt="Now Playing Favourites" width="260" /></td>
+  </tr>
+</table>
+<p><i>Official 2026 Google Pixel Material 3 Expressive UI recognizing songs, fetching album cover art, saving to History, and managing Favourites on a non-Pixel phone (Realme / ColorOS).</i></p>
+
 </div>
 
-<br/>
+---
 
 ## ✨ Wait — How Does This Work Without Shizuku or Root?
 
@@ -56,26 +72,6 @@ However, if you download the stock APK from APKMirror on a non-Pixel phone (Sams
 | **Offline + Cloud Song Recognition** | **✅ Hybrid (`NNFPv3` Offline + HTTPS Cloud 100M+ Songs)** | ✅ Yes (Requires Shizuku for Cloud) | ❌ Stuck on *"Preparing update"* |
 | **Album Art + Song History + Favorites** | **✅ Full Support** | ✅ Yes | ❌ Pixel only |
 | **Works on Samsung / Xiaomi / OnePlus / Nothing / Realme** | **✅ Works Out of the Box** | ⚠️ Frequently killed by OEM battery savers | ❌ Blocked by hardware check |
-
----
-
-## 📸 Screenshots (Running Live on a Non-Pixel Phone!)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🏠 2026 Expressive Home</b></td>
-      <td align="center"><b>🕒 Song History & Album Art</b></td>
-      <td align="center"><b>❤️ Liked / Favourites View</b></td>
-    </tr>
-    <tr>
-      <td><img src="assets/screenshot_home.png" alt="Now Playing 2026 Home Screen" width="260" /></td>
-      <td><img src="assets/screenshot_history.png" alt="Now Playing Song History" width="260" /></td>
-      <td><img src="assets/screenshot_favorites.png" alt="Now Playing Favourites" width="260" /></td>
-    </tr>
-  </table>
-  <p><i>Official 2026 Google Pixel Material 3 Expressive UI recognizing songs, fetching album cover art, saving to History, and managing Favourites on a non-Pixel phone (Realme / ColorOS).</i></p>
-</div>
 
 ---
 
